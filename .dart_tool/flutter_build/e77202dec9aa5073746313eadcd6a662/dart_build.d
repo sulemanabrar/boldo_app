@@ -1,0 +1,1 @@
+ /Volumes/Extreme\ SSD/AndroidStudioProjects/boldo/.dart_tool/flutter_build/e77202dec9aa5073746313eadcd6a662/dart_build_result.json:  /Users/sulemanabrar/flutter/bin/cache/dart-sdk/version /Volumes/Extreme\ SSD/AndroidStudioProjects/boldo/.dart_tool/package_config.json /Volumes/Extreme\ SSD/AndroidStudioProjects/boldo/pubspec.yaml

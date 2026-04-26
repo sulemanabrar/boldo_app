@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165814680401",
+    "project_id": "boldo-81d2e",
+    "storage_bucket": "boldo-81d2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165814680401:android:98dbc9fa05b48d8a387170",
+        "android_client_info": {
+          "package_name": "com.example.boldo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMk9OQVQ8bxC8p97RF3EXZhpYfsb_J508"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

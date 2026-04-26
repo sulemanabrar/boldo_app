@@ -1,0 +1,1 @@
+ /Volumes/Extreme\ SSD/AndroidStudioProjects/boldo/.dart_tool/flutter_build/e77202dec9aa5073746313eadcd6a662/native_assets.json: 
